@@ -1,0 +1,15 @@
+C:\Users\twi10\source\repos\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\twi10\source\repos\TestApp\obj\Debug\MainWindow.g.cs
+C:\Users\twi10\source\repos\TestApp\obj\Debug\App.g.cs
+C:\Users\twi10\source\repos\TestApp\obj\Debug\TestApp_MarkupCompile.cache
+C:\Users\twi10\source\repos\TestApp\obj\Debug\TestApp_MarkupCompile.lref
+C:\Users\twi10\source\repos\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\twi10\source\repos\TestApp\bin\Debug\TestApp.exe
+C:\Users\twi10\source\repos\TestApp\bin\Debug\TestApp.pdb
+C:\Users\twi10\source\repos\TestApp\obj\Debug\MainWindow.baml
+C:\Users\twi10\source\repos\TestApp\obj\Debug\TestApp.g.resources
+C:\Users\twi10\source\repos\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\twi10\source\repos\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\twi10\source\repos\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\twi10\source\repos\TestApp\obj\Debug\TestApp.exe
+C:\Users\twi10\source\repos\TestApp\obj\Debug\TestApp.pdb
