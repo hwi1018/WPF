@@ -1,0 +1,15 @@
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\bin\Debug\SloppyJoeChapter10.exe.config
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\bin\Debug\SloppyJoeChapter10.exe
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\bin\Debug\SloppyJoeChapter10.pdb
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\obj\Debug\MainWindow.g.cs
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\obj\Debug\App.g.cs
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\obj\Debug\SloppyJoeChapter10_MarkupCompile.cache
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\obj\Debug\SloppyJoeChapter10_MarkupCompile.lref
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\obj\Debug\MainWindow.baml
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\obj\Debug\SloppyJoeChapter10.g.resources
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\obj\Debug\SloppyJoeChapter10.Properties.Resources.resources
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\obj\Debug\SloppyJoeChapter10.csproj.GenerateResource.cache
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\obj\Debug\SloppyJoeChapter10.csproj.CoreCompileInputs.cache
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\obj\Debug\SloppyJoeChapter10.exe
+C:\Users\twi10\Desktop\WPF\source\WPF\Chapter_10\SloppyJoeChapter10\SloppyJoeChapter10\SloppyJoeChapter10\obj\Debug\SloppyJoeChapter10.pdb
